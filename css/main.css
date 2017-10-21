@@ -6,5 +6,10 @@ html {
   box-sizing: inherit;
 }
 
+article {
+  font-family: Georgia, serif;
+}
 
-font-family: 'Dosis', sans-serif;
+h2 {
+  font-family: "Dosis", sans-serif;
+}
